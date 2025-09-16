@@ -1,0 +1,24 @@
+/* @import url('variable.css'); */
+/* #principal{
+    background-image: url(/img/fundo.png);
+    background-color: aqua;
+} */
+ body{
+    background-image: url(/Anabelle-JS-main/img/fundo.png);
+ }
+ li{
+    color: blue;
+    font: weight 300px;
+    display: inline;
+    font-family: 'Courier New', Courier, monospace;
+ }
+ .conteudo{
+    background-color: lemonchiffon;
+ }
+ .footer{
+    text-align: center;
+ }
+#anna{
+    color: burlywood;
+}
+ 
